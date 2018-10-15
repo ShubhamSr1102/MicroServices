@@ -16,4 +16,9 @@
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539331603859_3" label="ConfigClient" name="ConfigClient">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ConfigClient" type="4"/>
 </workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539593411012_6" label="eurekaserver" name="eurekaserver">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/eurekaserver" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539579246449_4" label="Window Working Set" name="Aggregate for window 1539579246449"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539580209711_5" label="Window Working Set" name="Aggregate for window 1539580209711"/>
 </workingSetManager>
