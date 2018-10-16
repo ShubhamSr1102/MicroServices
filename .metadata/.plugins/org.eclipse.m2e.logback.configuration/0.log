@@ -1772,3 +1772,537 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact xmlpull:xmlpu
 2018-10-15 05:52:42,604 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-10-15 05:52:42,606 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-10-15 05:52:42,606 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\eurekaservicetest\src\test\resources
+2018-10-16 00:18:52,646 [Worker-305: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:client:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\client\pom.xml.
+2018-10-16 00:18:55,219 [Worker-305: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/src/main/java
+2018-10-16 00:18:55,220 [Worker-305: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /client/src/main/resources
+2018-10-16 00:18:55,232 [Worker-305: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /client/src/main/resources
+2018-10-16 00:18:55,237 [Worker-305: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/src/test/java
+2018-10-16 00:18:55,847 [Worker-305: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2018-10-16 00:18:57,532 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:18:57,534 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:18:57,538 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:18:57,540 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:18:57,541 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 00:18:58,759 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:18:58,760 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:18:58,760 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:18:58,762 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:18:58,762 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 00:19:08,010 [Worker-305: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:service2:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\service2\pom.xml.
+2018-10-16 00:19:08,824 [Worker-305: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service2/src/main/java
+2018-10-16 00:19:08,825 [Worker-305: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /service2/src/main/resources
+2018-10-16 00:19:08,831 [Worker-305: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /service2/src/main/resources
+2018-10-16 00:19:08,836 [Worker-305: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service2/src/test/java
+2018-10-16 00:19:09,053 [Worker-305: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2018-10-16 00:19:09,807 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:19:09,807 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:19:09,809 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:19:09,810 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:19:09,810 [Worker-306: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\service2\src\test\resources
+2018-10-16 00:19:10,984 [Worker-305: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:19:10,984 [Worker-305: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:19:10,985 [Worker-305: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:19:10,986 [Worker-305: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:19:10,986 [Worker-305: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\service2\src\test\resources
+2018-10-16 00:22:19,657 [Worker-307: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:client:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\client\pom.xml.
+2018-10-16 00:22:21,942 [Worker-307: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:service2:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\service2\pom.xml.
+2018-10-16 00:23:58,519 [Worker-309: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:client:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\client\pom.xml.
+2018-10-16 00:23:59,314 [Worker-309: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:service2:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\service2\pom.xml.
+2018-10-16 00:24:27,208 [Worker-307: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-10-16 00:24:29,875 [Worker-307: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:client:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\client\pom.xml.
+2018-10-16 00:24:30,355 [Worker-307: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:ConfigClient:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\ConfigClient\pom.xml.
+2018-10-16 00:24:31,771 [Worker-307: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:ConfigServer:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\ConfigServer\pom.xml.
+2018-10-16 00:24:32,042 [Worker-307: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:eurekaserver:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\eurekaserver\pom.xml.
+2018-10-16 00:24:32,411 [Worker-307: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:service2:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\service2\pom.xml.
+2018-10-16 00:24:33,833 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/src/main/java
+2018-10-16 00:24:33,833 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /client/src/main/resources
+2018-10-16 00:24:33,834 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /client/src/main/resources
+2018-10-16 00:24:33,834 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/src/test/java
+2018-10-16 00:24:33,999 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ConfigClient/src/main/java
+2018-10-16 00:24:33,999 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ConfigClient/src/main/resources
+2018-10-16 00:24:33,999 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ConfigClient/src/main/resources
+2018-10-16 00:24:34,000 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ConfigClient/src/test/java
+2018-10-16 00:24:34,311 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ConfigServer/src/main/java
+2018-10-16 00:24:34,311 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ConfigServer/src/main/resources
+2018-10-16 00:24:34,311 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ConfigServer/src/main/resources
+2018-10-16 00:24:34,312 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ConfigServer/src/test/java
+2018-10-16 00:24:34,675 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eurekaserver/src/main/java
+2018-10-16 00:24:34,675 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eurekaserver/src/main/resources
+2018-10-16 00:24:34,675 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eurekaserver/src/main/resources
+2018-10-16 00:24:34,676 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eurekaserver/src/test/java
+2018-10-16 00:24:35,026 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service2/src/main/java
+2018-10-16 00:24:35,026 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /service2/src/main/resources
+2018-10-16 00:24:35,027 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /service2/src/main/resources
+2018-10-16 00:24:35,027 [Worker-307: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service2/src/test/java
+2018-10-16 00:24:35,596 [Worker-307: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2018-10-16 00:24:38,342 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:24:38,343 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:24:38,343 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:24:38,365 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:24:38,365 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\ConfigClient\src\test\resources
+2018-10-16 00:24:40,660 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:24:40,661 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:24:40,682 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:24:40,683 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:24:40,683 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\ConfigServer\src\test\resources
+2018-10-16 00:24:44,438 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:24:44,438 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:24:44,440 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:24:44,442 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:24:44,442 [Worker-308: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\eurekaserver\src\test\resources
+2018-10-16 00:27:36,190 [Worker-309: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:service2:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\service2\pom.xml.
+2018-10-16 00:28:00,386 [Worker-80: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:service2:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\service2\pom.xml.
+2018-10-16 00:28:01,138 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:28:01,140 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:28:01,140 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:28:01,141 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:28:01,141 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\service2\src\test\resources
+2018-10-16 00:28:04,067 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:28:04,068 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:28:04,071 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:28:04,072 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:28:04,072 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\service2\src\test\resources
+2018-10-16 00:28:56,545 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/maven-metadata.xml
+2018-10-16 00:28:56,790 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/maven-metadata.xml
+2018-10-16 00:28:57,894 [Worker-297: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:client:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\client\pom.xml.
+2018-10-16 00:28:58,537 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.0.4.RELEASE/spring-boot-starter-2.0.4.RELEASE.pom
+2018-10-16 00:28:58,783 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.0.4.RELEASE/spring-boot-starter-2.0.4.RELEASE.pom
+2018-10-16 00:28:59,118 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starters/2.0.4.RELEASE/spring-boot-starters-2.0.4.RELEASE.pom
+2018-10-16 00:28:59,258 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starters/2.0.4.RELEASE/spring-boot-starters-2.0.4.RELEASE.pom
+2018-10-16 00:28:59,501 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-parent/2.0.4.RELEASE/spring-boot-parent-2.0.4.RELEASE.pom
+2018-10-16 00:28:59,730 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-parent/2.0.4.RELEASE/spring-boot-parent-2.0.4.RELEASE.pom
+2018-10-16 00:29:00,046 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE.pom
+2018-10-16 00:29:00,382 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE.pom
+2018-10-16 00:29:00,730 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE.pom
+2018-10-16 00:29:01,023 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE.pom
+2018-10-16 00:29:01,294 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.0.4.RELEASE/spring-boot-starter-logging-2.0.4.RELEASE.pom
+2018-10-16 00:29:01,538 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.0.4.RELEASE/spring-boot-starter-logging-2.0.4.RELEASE.pom
+2018-10-16 00:29:01,885 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.0.7.RELEASE/spring-security-crypto-5.0.7.RELEASE.pom
+2018-10-16 00:29:02,167 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.0.7.RELEASE/spring-security-crypto-5.0.7.RELEASE.pom
+2018-10-16 00:29:02,506 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.0.4.RELEASE/spring-boot-starter-aop-2.0.4.RELEASE.pom
+2018-10-16 00:29:02,750 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.0.4.RELEASE/spring-boot-starter-aop-2.0.4.RELEASE.pom
+2018-10-16 00:29:03,099 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.pom
+2018-10-16 00:29:03,345 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.pom
+2018-10-16 00:29:03,582 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.6.4/slf4j-parent-1.6.4.pom
+2018-10-16 00:29:03,826 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.6.4/slf4j-parent-1.6.4.pom
+2018-10-16 00:29:04,167 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.3/joda-time-2.3.pom
+2018-10-16 00:29:04,331 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.3/joda-time-2.3.pom
+2018-10-16 00:29:04,581 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.1/gson-2.1.pom
+2018-10-16 00:29:04,878 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.1/gson-2.1.pom
+2018-10-16 00:29:05,224 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.4.3/jackson-annotations-2.4.3.pom
+2018-10-16 00:29:05,469 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.4.3/jackson-annotations-2.4.3.pom
+2018-10-16 00:29:05,694 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.4/jackson-parent-2.4.pom
+2018-10-16 00:29:05,859 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.4/jackson-parent-2.4.pom
+2018-10-16 00:29:06,081 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/16/oss-parent-16.pom
+2018-10-16 00:29:06,407 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/16/oss-parent-16.pom
+2018-10-16 00:29:06,636 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.4.3/jackson-core-2.4.3.pom
+2018-10-16 00:29:06,876 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.4.3/jackson-core-2.4.3.pom
+2018-10-16 00:29:07,106 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.3/jackson-databind-2.4.3.pom
+2018-10-16 00:29:07,375 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.3/jackson-databind-2.4.3.pom
+2018-10-16 00:29:07,695 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.4.0/jackson-annotations-2.4.0.pom
+2018-10-16 00:29:07,940 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.4.0/jackson-annotations-2.4.0.pom
+2018-10-16 00:29:08,285 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.pom
+2018-10-16 00:29:08,532 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.pom
+2018-10-16 00:29:08,759 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.1.1/httpcomponents-client-4.1.1.pom
+2018-10-16 00:29:09,002 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.1.1/httpcomponents-client-4.1.1.pom
+2018-10-16 00:29:09,233 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/4.1.1/project-4.1.1.pom
+2018-10-16 00:29:09,404 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/4.1.1/project-4.1.1.pom
+2018-10-16 00:29:09,646 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.pom
+2018-10-16 00:29:09,891 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.pom
+2018-10-16 00:29:10,121 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.1/httpcomponents-core-4.1.pom
+2018-10-16 00:29:10,361 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.1/httpcomponents-core-4.1.pom
+2018-10-16 00:29:10,618 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.4/commons-codec-1.4.pom
+2018-10-16 00:29:10,848 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.4/commons-codec-1.4.pom
+2018-10-16 00:29:11,066 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.pom
+2018-10-16 00:29:11,396 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.pom
+2018-10-16 00:29:11,631 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.3/httpcomponents-client-4.5.3.pom
+2018-10-16 00:29:11,796 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.3/httpcomponents-client-4.5.3.pom
+2018-10-16 00:29:12,015 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/7/project-7.pom
+2018-10-16 00:29:12,363 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/7/project-7.pom
+2018-10-16 00:29:12,701 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.pom
+2018-10-16 00:29:12,874 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.pom
+2018-10-16 00:29:13,119 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.6/httpcomponents-core-4.4.6.pom
+2018-10-16 00:29:13,361 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.6/httpcomponents-core-4.4.6.pom
+2018-10-16 00:29:13,600 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.pom
+2018-10-16 00:29:13,874 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.pom
+2018-10-16 00:29:14,078 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/32/commons-parent-32.pom
+2018-10-16 00:29:14,401 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/32/commons-parent-32.pom
+2018-10-16 00:29:14,671 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.4/jackson-annotations-2.9.4.pom
+2018-10-16 00:29:14,916 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.4/jackson-annotations-2.9.4.pom
+2018-10-16 00:29:15,158 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.9.1/jackson-parent-2.9.1.pom
+2018-10-16 00:29:15,445 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.9.1/jackson-parent-2.9.1.pom
+2018-10-16 00:29:15,671 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/30/oss-parent-30.pom
+2018-10-16 00:29:15,916 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/30/oss-parent-30.pom
+2018-10-16 00:29:16,144 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.4/jackson-core-2.9.4.pom
+2018-10-16 00:29:16,417 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.4/jackson-core-2.9.4.pom
+2018-10-16 00:29:16,725 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.9.4/jackson-base-2.9.4.pom
+2018-10-16 00:29:16,892 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.9.4/jackson-base-2.9.4.pom
+2018-10-16 00:29:17,148 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.9.4/jackson-bom-2.9.4.pom
+2018-10-16 00:29:17,393 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.9.4/jackson-bom-2.9.4.pom
+2018-10-16 00:29:17,621 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.4/jackson-databind-2.9.4.pom
+2018-10-16 00:29:17,877 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.4/jackson-databind-2.9.4.pom
+2018-10-16 00:29:18,226 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/reactivex/rxjava/1.2.0/rxjava-1.2.0.pom
+2018-10-16 00:29:18,469 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/reactivex/rxjava/1.2.0/rxjava-1.2.0.pom
+2018-10-16 00:29:18,695 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.pom
+2018-10-16 00:29:18,942 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.pom
+2018-10-16 00:29:19,168 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.12/slf4j-parent-1.7.12.pom
+2018-10-16 00:29:19,461 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.12/slf4j-parent-1.7.12.pom
+2018-10-16 00:29:19,808 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.0.27.Final/netty-codec-http-4.0.27.Final.pom
+2018-10-16 00:29:20,095 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.0.27.Final/netty-codec-http-4.0.27.Final.pom
+2018-10-16 00:29:20,430 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.0.27.Final/netty-parent-4.0.27.Final.pom
+2018-10-16 00:29:20,620 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.0.27.Final/netty-parent-4.0.27.Final.pom
+2018-10-16 00:29:20,848 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.0.27.Final/netty-codec-4.0.27.Final.pom
+2018-10-16 00:29:21,162 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.0.27.Final/netty-codec-4.0.27.Final.pom
+2018-10-16 00:29:21,394 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.0.27.Final/netty-transport-4.0.27.Final.pom
+2018-10-16 00:29:21,639 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.0.27.Final/netty-transport-4.0.27.Final.pom
+2018-10-16 00:29:21,870 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.0.27.Final/netty-buffer-4.0.27.Final.pom
+2018-10-16 00:29:22,226 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.0.27.Final/netty-buffer-4.0.27.Final.pom
+2018-10-16 00:29:22,472 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.0.27.Final/netty-common-4.0.27.Final.pom
+2018-10-16 00:29:22,715 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.0.27.Final/netty-common-4.0.27.Final.pom
+2018-10-16 00:29:22,950 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.0.27.Final/netty-handler-4.0.27.Final.pom
+2018-10-16 00:29:23,191 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.0.27.Final/netty-handler-4.0.27.Final.pom
+2018-10-16 00:29:23,419 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.0.27.Final/netty-transport-native-epoll-4.0.27.Final.pom
+2018-10-16 00:29:23,668 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.0.27.Final/netty-transport-native-epoll-4.0.27.Final.pom
+2018-10-16 00:29:23,890 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.pom
+2018-10-16 00:29:24,139 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.pom
+2018-10-16 00:29:24,367 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.6/slf4j-parent-1.7.6.pom
+2018-10-16 00:29:24,658 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.6/slf4j-parent-1.7.6.pom
+2018-10-16 00:29:24,889 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.0/slf4j-api-1.7.0.pom
+2018-10-16 00:29:25,133 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.0/slf4j-api-1.7.0.pom
+2018-10-16 00:29:25,363 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.0/slf4j-parent-1.7.0.pom
+2018-10-16 00:29:25,612 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.0/slf4j-parent-1.7.0.pom
+2018-10-16 00:29:25,845 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.2.1/httpclient-4.2.1.pom
+2018-10-16 00:29:26,130 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.2.1/httpclient-4.2.1.pom
+2018-10-16 00:29:26,468 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.2.1/httpcomponents-client-4.2.1.pom
+2018-10-16 00:29:26,709 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.2.1/httpcomponents-client-4.2.1.pom
+2018-10-16 00:29:27,052 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/6/project-6.pom
+2018-10-16 00:29:27,231 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/6/project-6.pom
+2018-10-16 00:29:27,479 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.2.1/httpcore-4.2.1.pom
+2018-10-16 00:29:27,725 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.2.1/httpcore-4.2.1.pom
+2018-10-16 00:29:27,952 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.2.1/httpcomponents-core-4.2.1.pom
+2018-10-16 00:29:28,203 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.2.1/httpcomponents-core-4.2.1.pom
+2018-10-16 00:29:28,433 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.pom
+2018-10-16 00:29:28,721 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.pom
+2018-10-16 00:29:28,946 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/22/commons-parent-22.pom
+2018-10-16 00:29:29,106 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/22/commons-parent-22.pom
+2018-10-16 00:29:29,459 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.0.4.RELEASE/spring-boot-starter-2.0.4.RELEASE.jar
+2018-10-16 00:29:29,704 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.0.4.RELEASE/spring-boot-starter-2.0.4.RELEASE.jar
+2018-10-16 00:29:29,938 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE.jar
+2018-10-16 00:29:30,621 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE.jar
+2018-10-16 00:29:30,938 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.0.4.RELEASE/spring-boot-starter-logging-2.0.4.RELEASE.jar
+2018-10-16 00:29:31,183 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.0.4.RELEASE/spring-boot-starter-logging-2.0.4.RELEASE.jar
+2018-10-16 00:29:31,411 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.0.7.RELEASE/spring-security-crypto-5.0.7.RELEASE.jar
+2018-10-16 00:29:31,690 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.0.7.RELEASE/spring-security-crypto-5.0.7.RELEASE.jar
+2018-10-16 00:29:31,948 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE.jar
+2018-10-16 00:29:33,165 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE.jar
+2018-10-16 00:29:33,407 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.0.4.RELEASE/spring-boot-starter-aop-2.0.4.RELEASE.jar
+2018-10-16 00:29:33,658 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.0.4.RELEASE/spring-boot-starter-aop-2.0.4.RELEASE.jar
+2018-10-16 00:29:33,883 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.3/joda-time-2.3.jar
+2018-10-16 00:29:34,332 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.3/joda-time-2.3.jar
+2018-10-16 00:29:34,611 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.1/gson-2.1.jar
+2018-10-16 00:29:34,838 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.1/gson-2.1.jar
+2018-10-16 00:29:35,023 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar
+2018-10-16 00:29:35,575 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar
+2018-10-16 00:29:35,807 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar
+2018-10-16 00:29:35,971 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar
+2018-10-16 00:29:36,281 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+2018-10-16 00:29:36,458 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+2018-10-16 00:29:36,671 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.4/jackson-annotations-2.9.4.jar
+2018-10-16 00:29:36,958 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.4/jackson-annotations-2.9.4.jar
+2018-10-16 00:29:37,163 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.4/jackson-core-2.9.4.jar
+2018-10-16 00:29:37,505 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.4/jackson-core-2.9.4.jar
+2018-10-16 00:29:37,744 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.0.27.Final/netty-codec-http-4.0.27.Final.jar
+2018-10-16 00:29:38,177 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.0.27.Final/netty-codec-http-4.0.27.Final.jar
+2018-10-16 00:29:38,404 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.0.27.Final/netty-codec-4.0.27.Final.jar
+2018-10-16 00:29:38,567 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.0.27.Final/netty-codec-4.0.27.Final.jar
+2018-10-16 00:29:38,801 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.0.27.Final/netty-handler-4.0.27.Final.jar
+2018-10-16 00:29:39,133 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.0.27.Final/netty-handler-4.0.27.Final.jar
+2018-10-16 00:29:39,474 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.0.27.Final/netty-transport-native-epoll-4.0.27.Final.jar
+2018-10-16 00:29:39,639 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.0.27.Final/netty-transport-native-epoll-4.0.27.Final.jar
+2018-10-16 00:29:39,861 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.0.27.Final/netty-common-4.0.27.Final.jar
+2018-10-16 00:29:40,205 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.0.27.Final/netty-common-4.0.27.Final.jar
+2018-10-16 00:29:40,474 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.0.27.Final/netty-buffer-4.0.27.Final.jar
+2018-10-16 00:29:40,701 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.0.27.Final/netty-buffer-4.0.27.Final.jar
+2018-10-16 00:29:40,997 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.0.27.Final/netty-transport-4.0.27.Final.jar
+2018-10-16 00:29:41,333 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.0.27.Final/netty-transport-4.0.27.Final.jar
+2018-10-16 00:29:41,565 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/reactivex/rxjava/1.2.0/rxjava-1.2.0.jar
+2018-10-16 00:29:42,155 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/reactivex/rxjava/1.2.0/rxjava-1.2.0.jar
+2018-10-16 00:29:42,364 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar
+2018-10-16 00:29:42,584 [Worker-297: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar
+2018-10-16 00:29:43,895 [Worker-297: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:ConfigClient:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\ConfigClient\pom.xml.
+2018-10-16 00:29:44,422 [Worker-297: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:ConfigServer:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\ConfigServer\pom.xml.
+2018-10-16 00:29:44,597 [Worker-297: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:eurekaserver:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\eurekaserver\pom.xml.
+2018-10-16 00:29:44,830 [Worker-297: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:service2:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\service2\pom.xml.
+2018-10-16 00:29:47,899 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:29:47,899 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:29:47,902 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:29:47,904 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:29:47,904 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\eurekaserver\src\test\resources
+2018-10-16 00:29:48,002 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.0.4.RELEASE/spring-boot-starter-2.0.4.RELEASE-sources.jar
+2018-10-16 00:29:48,245 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.0.4.RELEASE/spring-boot-starter-2.0.4.RELEASE-sources.jar
+2018-10-16 00:29:48,283 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter:2.0.4.RELEASE
+2018-10-16 00:29:48,586 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE-sources.jar
+2018-10-16 00:29:48,817 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:29:48,819 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:29:48,822 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:29:48,823 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:29:48,823 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\service2\src\test\resources
+2018-10-16 00:29:50,804 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:29:50,804 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:29:50,805 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:29:50,808 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:29:50,808 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\ConfigClient\src\test\resources
+2018-10-16 00:29:50,974 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE-sources.jar
+2018-10-16 00:29:51,015 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot:2.0.4.RELEASE
+2018-10-16 00:29:51,246 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.0.4.RELEASE/spring-boot-starter-logging-2.0.4.RELEASE-sources.jar
+2018-10-16 00:29:51,495 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.0.4.RELEASE/spring-boot-starter-logging-2.0.4.RELEASE-sources.jar
+2018-10-16 00:29:51,536 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-logging:2.0.4.RELEASE
+2018-10-16 00:29:51,720 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.0.7.RELEASE/spring-security-crypto-5.0.7.RELEASE-sources.jar
+2018-10-16 00:29:51,887 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:29:51,887 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:29:51,890 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:29:51,892 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:29:51,892 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\ConfigServer\src\test\resources
+2018-10-16 00:29:52,241 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.0.7.RELEASE/spring-security-crypto-5.0.7.RELEASE-sources.jar
+2018-10-16 00:29:52,278 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-crypto:5.0.7.RELEASE
+2018-10-16 00:29:52,584 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE-sources.jar
+2018-10-16 00:29:54,788 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE-sources.jar
+2018-10-16 00:29:54,841 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-autoconfigure:2.0.4.RELEASE
+2018-10-16 00:29:55,010 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.0.4.RELEASE/spring-boot-starter-aop-2.0.4.RELEASE-sources.jar
+2018-10-16 00:29:55,338 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.0.4.RELEASE/spring-boot-starter-aop-2.0.4.RELEASE-sources.jar
+2018-10-16 00:29:55,417 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-aop:2.0.4.RELEASE
+2018-10-16 00:29:55,678 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.3/joda-time-2.3-sources.jar
+2018-10-16 00:29:57,906 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.3/joda-time-2.3-sources.jar
+2018-10-16 00:29:57,953 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for joda-time:joda-time:2.3
+2018-10-16 00:29:58,250 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.1/gson-2.1-sources.jar
+2018-10-16 00:29:58,701 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.1/gson-2.1-sources.jar
+2018-10-16 00:29:58,745 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.1
+2018-10-16 00:29:59,009 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar
+2018-10-16 00:30:01,230 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar
+2018-10-16 00:30:01,275 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.3
+2018-10-16 00:30:01,542 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6-sources.jar
+2018-10-16 00:30:02,766 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6-sources.jar
+2018-10-16 00:30:02,804 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.6
+2018-10-16 00:30:02,989 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar
+2018-10-16 00:30:03,980 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar
+2018-10-16 00:30:04,034 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.9
+2018-10-16 00:30:04,322 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.4/jackson-annotations-2.9.4-sources.jar
+2018-10-16 00:30:04,610 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.4/jackson-annotations-2.9.4-sources.jar
+2018-10-16 00:30:04,667 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.9.4
+2018-10-16 00:30:04,896 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.4/jackson-core-2.9.4-sources.jar
+2018-10-16 00:30:05,915 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.4/jackson-core-2.9.4-sources.jar
+2018-10-16 00:30:05,955 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.9.4
+2018-10-16 00:30:06,264 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.0.27.Final/netty-codec-http-4.0.27.Final-sources.jar
+2018-10-16 00:30:07,123 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.0.27.Final/netty-codec-http-4.0.27.Final-sources.jar
+2018-10-16 00:30:07,161 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http:4.0.27.Final
+2018-10-16 00:30:07,342 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.0.27.Final/netty-codec-4.0.27.Final-sources.jar
+2018-10-16 00:30:07,860 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.0.27.Final/netty-codec-4.0.27.Final-sources.jar
+2018-10-16 00:30:07,929 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.0.27.Final
+2018-10-16 00:30:08,283 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.0.27.Final/netty-handler-4.0.27.Final-sources.jar
+2018-10-16 00:30:08,799 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.0.27.Final/netty-handler-4.0.27.Final-sources.jar
+2018-10-16 00:30:08,849 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.0.27.Final
+2018-10-16 00:30:09,136 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.0.27.Final/netty-transport-native-epoll-4.0.27.Final-sources.jar
+2018-10-16 00:30:09,456 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.0.27.Final/netty-transport-native-epoll-4.0.27.Final-sources.jar
+2018-10-16 00:30:09,491 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-epoll:4.0.27.Final
+2018-10-16 00:30:09,679 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.0.27.Final/netty-common-4.0.27.Final-sources.jar
+2018-10-16 00:30:10,466 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.0.27.Final/netty-common-4.0.27.Final-sources.jar
+2018-10-16 00:30:10,516 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.0.27.Final
+2018-10-16 00:30:10,693 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.0.27.Final/netty-buffer-4.0.27.Final-sources.jar
+2018-10-16 00:30:11,093 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.0.27.Final/netty-buffer-4.0.27.Final-sources.jar
+2018-10-16 00:30:11,136 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.0.27.Final
+2018-10-16 00:30:11,404 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.0.27.Final/netty-transport-4.0.27.Final-sources.jar
+2018-10-16 00:30:11,980 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.0.27.Final/netty-transport-4.0.27.Final-sources.jar
+2018-10-16 00:30:12,026 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.0.27.Final
+2018-10-16 00:30:12,248 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/reactivex/rxjava/1.2.0/rxjava-1.2.0-sources.jar
+2018-10-16 00:30:13,471 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/reactivex/rxjava/1.2.0/rxjava-1.2.0-sources.jar
+2018-10-16 00:30:13,517 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.reactivex:rxjava:1.2.0
+2018-10-16 00:30:13,653 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12-sources.jar
+2018-10-16 00:30:13,925 [Worker-315: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12-sources.jar
+2018-10-16 00:30:13,973 [Worker-315: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.12
+2018-10-16 00:30:45,135 [Worker-60: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:client:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\client\pom.xml.
+2018-10-16 00:30:45,945 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:30:45,945 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:30:45,945 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:30:45,947 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:30:45,947 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 00:30:48,875 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:30:48,877 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:30:48,879 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:30:48,881 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:30:48,882 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 00:33:30,443 [Worker-309: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:client:0.0.1-SNAPSHOT @ C:\Users\shusriva\Documents\MicroServices\client\pom.xml.
+2018-10-16 00:33:31,370 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:33:31,370 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:33:31,370 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:33:31,373 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:33:31,373 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 00:35:12,239 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:35:12,241 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:35:12,243 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:35:12,245 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:35:12,245 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 00:36:32,876 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:36:32,876 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:36:32,876 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:36:32,883 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:36:32,883 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\service2\src\test\resources
+2018-10-16 00:36:56,966 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:36:56,966 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:36:56,966 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:36:56,970 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:36:56,970 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\service2\src\test\resources
+2018-10-16 00:37:25,018 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:37:25,018 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:37:25,021 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:37:25,023 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:37:25,023 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\service2\src\test\resources
+2018-10-16 00:37:56,897 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:37:56,898 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:37:56,899 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:37:56,901 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:37:56,901 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 00:38:08,834 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:38:08,834 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:38:08,835 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:38:08,839 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:38:08,839 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 00:38:21,491 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:38:21,492 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:38:21,492 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:38:21,495 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:38:21,496 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 00:38:51,069 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:38:51,070 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:38:51,070 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:38:51,076 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:38:51,076 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\ConfigServer\src\test\resources
+2018-10-16 00:39:42,658 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:39:42,658 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:39:42,658 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:39:42,661 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:39:42,661 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\ConfigServer\src\test\resources
+2018-10-16 00:39:45,535 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:39:45,536 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:39:45,543 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:39:45,546 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:39:45,546 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 00:40:05,420 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:40:05,421 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:40:05,422 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:40:05,428 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:40:05,428 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\service2\src\test\resources
+2018-10-16 00:40:20,202 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:40:20,203 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:40:20,204 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:40:20,209 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:40:20,209 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 00:41:43,882 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:41:43,882 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:41:43,883 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:41:43,887 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:41:43,887 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\eurekaserver\src\test\resources
+2018-10-16 00:41:45,485 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:41:45,485 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:41:45,485 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:41:45,488 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:41:45,488 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 00:41:45,549 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:41:45,549 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:41:45,550 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:41:45,553 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:41:45,553 [Worker-309: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\service2\src\test\resources
+2018-10-16 00:42:34,191 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:42:34,192 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:42:34,192 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:42:34,197 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:42:34,197 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\eurekaserver\src\test\resources
+2018-10-16 00:42:52,950 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:42:52,950 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:42:52,953 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:42:52,959 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:42:52,959 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\eurekaserver\src\test\resources
+2018-10-16 00:44:03,760 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:44:03,760 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:44:03,761 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:44:03,764 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:44:03,764 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\eurekaserver\src\test\resources
+2018-10-16 00:46:39,799 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:46:39,800 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:46:39,800 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:46:39,805 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:46:39,805 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\eurekaserver\src\test\resources
+2018-10-16 00:48:07,505 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:48:07,506 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:48:07,506 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:48:07,511 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:48:07,511 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\eurekaserver\src\test\resources
+2018-10-16 00:50:02,097 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:50:02,097 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:50:02,104 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:50:02,106 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:50:02,106 [Worker-304: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\eurekaserver\src\test\resources
+2018-10-16 00:50:25,922 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:50:25,923 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 00:50:25,923 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 00:50:25,929 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 00:50:25,929 [Worker-323: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\eurekaserver\src\test\resources
+2018-10-16 01:08:46,597 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:08:46,599 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 01:08:46,600 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 01:08:46,602 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:08:46,602 [Worker-327: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\service2\src\test\resources
+2018-10-16 01:25:13,738 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:25:13,739 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 01:25:13,740 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 01:25:13,743 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:25:13,743 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 01:25:33,569 [Worker-338: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:25:33,571 [Worker-338: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 01:25:33,572 [Worker-338: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 01:25:33,579 [Worker-338: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:25:33,579 [Worker-338: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\service2\src\test\resources
+2018-10-16 01:26:57,185 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:26:57,185 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 01:26:57,185 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 01:26:57,189 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:26:57,189 [Worker-334: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\ConfigClient\src\test\resources
+2018-10-16 01:32:43,186 [Worker-338: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:32:43,187 [Worker-338: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 01:32:43,188 [Worker-338: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 01:32:43,191 [Worker-338: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:32:43,191 [Worker-338: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 01:35:05,618 [Worker-339: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:35:05,620 [Worker-339: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 01:35:05,622 [Worker-339: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 01:35:05,624 [Worker-339: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:35:05,624 [Worker-339: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 01:39:44,489 [Worker-335: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:39:44,489 [Worker-335: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 01:39:44,490 [Worker-335: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 01:39:44,493 [Worker-335: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:39:44,493 [Worker-335: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 01:40:59,015 [Worker-330: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:40:59,017 [Worker-330: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 01:40:59,017 [Worker-330: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 01:40:59,019 [Worker-330: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:40:59,019 [Worker-330: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 01:42:40,049 [Worker-330: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:42:40,051 [Worker-330: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 01:42:40,052 [Worker-330: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 01:42:40,053 [Worker-330: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:42:40,054 [Worker-330: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 01:43:37,827 [Worker-337: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:43:37,828 [Worker-337: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 01:43:37,829 [Worker-337: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 01:43:37,831 [Worker-337: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:43:37,831 [Worker-337: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 01:57:25,061 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:57:25,063 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 01:57:25,064 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 01:57:25,066 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 01:57:25,067 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\client\src\test\resources
+2018-10-16 02:00:20,261 [Worker-338: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 02:00:20,261 [Worker-338: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-16 02:00:20,262 [Worker-338: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-16 02:00:20,272 [Worker-338: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-16 02:00:20,273 [Worker-338: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\shusriva\Documents\MicroServices\ConfigClient\src\test\resources
