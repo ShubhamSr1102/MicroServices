@@ -20,7 +20,7 @@ public class ClientController {
 	private static final RestTemplate REST_TEMPLATE = new RestTemplate();
 	
 	@GetMapping("/message")
-	public String getGreetingMessage() {
+	public String getMessage() {
 		Application application = eurekaClient.getApplication("config-client");
 	       InstanceInfo instanceInfo = application.getInstances().get(0);
 	       String url = "http://"+instanceInfo.getIPAddr()+ ":"+instanceInfo.getPort()+"/"+"message";
